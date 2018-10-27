@@ -1,0 +1,1 @@
+Build docker cotainer of Vega-server
